@@ -1,0 +1,27 @@
+P4CK37 GL0TT0N License
+
+Copyright (c) 2025 GR33D-DEV
+
+PERSONAL USE ONLY LICENSE
+
+Permission is granted to download, use, and run this software for:
+- Authorized network penetration testing
+- Security research and education
+- Testing your own network infrastructure
+- Educational purposes
+
+RESTRICTIONS:
+- NO redistribution or sharing of source code
+- NO commercial use or resale
+- NO inclusion in other projects or products
+- NO modification and redistribution
+- Use only on networks you own or have explicit permission to test
+
+DISCLAIMER:
+This software is provided "AS IS" without warranty of any kind.
+The author is not responsible for any damages or misuse of this tool.
+Users assume all responsibility for legal and ethical use.
+
+USE AT YOUR OWN RISK.
+
+By downloading, using, or running this software, you agree to these terms.

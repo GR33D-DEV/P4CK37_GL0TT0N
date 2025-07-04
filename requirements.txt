@@ -1,0 +1,13 @@
+# P4CK37 GL0TT0N - Network Stress Testing Tool
+# Dependencies required for full functionality
+
+# Core dependencies
+colorama>=0.4.4
+requests>=2.28.0
+
+# Proxy support (optional but recommended)
+PySocks>=1.7.1
+
+# Alternative installations:
+# For basic functionality only: pip install colorama requests
+# For full proxy support: pip install -r requirements.txt
