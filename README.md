@@ -1,5 +1,20 @@
-# P4CK37 GL0TT0N 🍽️
-### *The Insatiable Network Devourer*
+```
+    ██████╗ ██╗  ██╗ ██████╗██╗  ██╗██████╗ ███████╗
+    ██╔══██╗██║  ██║██╔════╝██║ ██╔╝╚════██╗╚════██║
+    ██████╔╝███████║██║     █████╔╝  █████╔╝    ██╔╝
+    ██╔═══╝ ╚════██║██║     ██╔═██╗  ╚═══██╗   ██╔╝ 
+    ██║          ██║╚██████╗██║  ██╗██████╔╝   ██║  
+    ╚═╝          ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝    ╚═╝  
+                                                     
+     ██████╗ ██╗      ██████╗ ████████╗████████╗ ██████╗ ███╗   ██╗
+    ██╔════╝ ██║     ██╔═████╗╚══██╔══╝╚══██╔══╝██╔═████╗████╗  ██║
+    ██║  ███╗██║     ██║██╔██║   ██║      ██║   ██║██╔██║██╔██╗ ██║
+    ██║   ██║██║     ████╔╝██║   ██║      ██║   ████╔╝██║██║╚██╗██║
+    ╚██████╔╝███████╗╚██████╔╝   ██║      ██║   ╚██████╔╝██║ ╚████║
+     ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
+```
+
+# 🍽️ *The Insatiable Network Devourer* 🍽️
 
 A professional network stress testing tool with advanced proxy chain support for authorized security testing and educational purposes.
 
@@ -14,17 +29,19 @@ A professional network stress testing tool with advanced proxy chain support for
 
 ## 🛠️ Installation
 
+### Requirements
+- **Python 3.7 or higher** (Python 3.8+ recommended)
+- Windows, macOS, or Linux
+
 ### Quick Setup
 ```bash
 # Clone or download this folder
 cd P4CK37_GL0TT0N
 
-#Run the setup file
+# Run the setup file (recommended)
 python setup.py
 
-#or install the dependencies with the requirements.txt
-
-# Install dependencies
+# or install the dependencies with the requirements.txt
 pip install -r requirements.txt
 
 # Run the tool
@@ -33,7 +50,17 @@ python packet_glutton.py
 
 ### Manual Installation
 ```bash
+# Install dependencies manually
 pip install colorama requests PySocks
+
+# Run the tool
+python packet_glutton.py
+```
+
+### Verify Python Version
+```bash
+python --version
+# Should show Python 3.7.0 or higher
 ```
 
 ## 🎯 Usage
@@ -88,9 +115,10 @@ UDP Direct Attack:
 ## 📁 File Structure
 
 - `packet_glutton.py` - Main application
+- `setup.py` - Automated setup script
 - `requirements.txt` - Python dependencies
 - `proxies.txt` - Optional proxy list (IP:PORT format)
-- `examples/` - Sample configurations
+- `LICENSE` - License and terms of use
 
 ## 🛡️ Legal & Ethical Use
 
